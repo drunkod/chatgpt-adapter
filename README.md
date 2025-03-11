@@ -1,3 +1,7 @@
+- 🇨🇳 [README.md](sandbox:/mnt/data/README.md) (Original Chinese version, renamed for clarity)
+- 🇬🇧 [README_EN.md](sandbox:/mnt/data/README_EN.md) (English version)
+
+---
 <h2 align="center">ChatGPT Adapter</h2>
 <div>
 该服务集成了openai-api、coze、deepseek、cursor、windsurf、blackbox、you、grok、bing 绘画 多款AI的聊天逆向接口适配到 OpenAI API 标准接口服务端。
